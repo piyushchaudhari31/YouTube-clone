@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: gilroy;
+}
+html,
+body {
+   height: 100%;
+   width: 100%;
+}
+
+a{
+   text-decoration:none;
+   color: #5a5a5a;
+
+}
+img{
+   cursor: pointer;
+}
+
+.flex-div{
+   display: flex;
+   align-items: center;
+}
